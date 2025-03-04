@@ -8,15 +8,6 @@ import {
   onAuthStateChanged,
 } from "firebase/auth";
 
-// const firebaseConfig = {
-//     apiKey: "AIzaSyCmeImkxCt9ZKAMRnMxEWpgLdFeeM5os4I",
-//     authDomain: "todo-app-3151e.firebaseapp.com",
-//     projectId: "todo-app-3151e",
-//     storageBucket: "todo-app-3151e.firebasestorage.app",
-//     messagingSenderId: "890890822236",
-//     appId: "1:890890822236:web:b3b9f771e809d2bb59fc99",
-//     measurementId: "G-RSE1NG1893",
-// };
 
 // src/firebase.js
 const firebaseConfig = {

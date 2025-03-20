@@ -44,3 +44,11 @@ React.js, Vite, CSS, Firebase Firestore, Firebase Authentication, React Hooks, G
    npm run dev
 
    ```
+
+## Usage
+1. Open your browser and navigate to the URL provided by the development server (usually http://localhost:5173).
+2. Sign up or log in using the authentication form.
+3. Manage your tasks: add new tasks, edit existing ones, mark them as completed, or delete them.
+
+## Contributing
+Contributions are welcome! If you'd like to improve this project, please fork the repository, make your changes, and submit a pull request.

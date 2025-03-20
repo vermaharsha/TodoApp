@@ -52,3 +52,19 @@ React.js, Vite, CSS, Firebase Firestore, Firebase Authentication, React Hooks, G
 
 ## Contributing
 Contributions are welcome! If you'd like to improve this project, please fork the repository, make your changes, and submit a pull request.
+
+## Visual Representation Dashboard
+1. **Firebase Authentication Page**
+![image](https://github.com/user-attachments/assets/6e9c4e8b-fb17-4786-b129-3d1d93e34222)
+
+2. **Sign Up PAge**
+![image](https://github.com/user-attachments/assets/29e2da22-c207-4f94-99bd-1f44e2c34123)
+
+3. **Todo App Dashboard**
+![image](https://github.com/user-attachments/assets/f914fed5-3d66-4968-b616-adba5c2d0b40)
+
+4. **Firebase Configuration Setup**
+![image](https://github.com/user-attachments/assets/d88b0e23-0f31-4823-9959-7039c5a16aed)
+
+5. **Authentication Logic**
+![image](https://github.com/user-attachments/assets/92b37c7c-6569-43b8-a9e4-488448e138b1)

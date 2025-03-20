@@ -1,12 +1,46 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+An easy-to-use application for adding, organizing, and tracking daily tasks. Enjoy a simple, intuitive interface with secure access and seamless task management.
 
-Currently, two official plugins are available:
+## Features
+- **Task Management:** Add, edit, and delete tasks.
+- **Task Completion:** Mark tasks as completed.
+- **Secure Access:** User authentication with secure login/logout.
+- **Real-Time Updates:** Instant task updates for an efficient workflow.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+React.js, Vite, CSS, Firebase Firestore, Firebase Authentication, React Hooks, Git, GitHub, .env
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/vermaharsha/TodoApp.git
+   ```
+2. **Navigate to the Project Directory:**
+   ```
+   cd TodoApp
+
+   ```
+3. **Install Dependencies:**
+   ```
+   npm install
+
+   ```
+4. **Configure Environment Variables:**
+   Create a .env file in the project root with the following content: 
+   ```
+   VITE_API_KEY=YOUR_FIREBASE_API_KEY
+   VITE_AUTH_DOMAIN=YOUR_PROJECT_ID.firebaseapp.com
+   VITE_PROJECT_ID=YOUR_PROJECT_ID
+   VITE_STORAGE_BUCKET=YOUR_PROJECT_ID.appspot.com
+   VITE_MESSAGING_SENDER_ID=YOUR_FIREBASE_MESSAGING_SENDER_ID
+   VITE_APP_ID=YOUR_FIREBASE_APP_ID
+   ```
+   Replace the placeholder values with your actual Firebase project configuration.
+5. **Start the Development Server:**
+   ```
+   npm run dev
+
+   ```
